@@ -1,4 +1,4 @@
-// Copyright Dayne Voller 2018..
+// Copyright Dayne Voller 2018.
 
 #pragma once
 
@@ -17,5 +17,8 @@ class BATTLETANK_API ATankAIController : public AAIController
 
 	virtual void BeginPlay() override;
 
+private:
 	ATank* GetControlledTank() const;
+
+	ATank* GetPlayerTank() const;
 };

@@ -1,5 +1,6 @@
 // Copyright Dayne Voller 2018.
 
+#include "TankAimingComponent.h"
 #include "Tank.h"
 
 

@@ -1,6 +1,7 @@
 // Copyright Dayne Voller 2018.
 
 #include "TankAIController.h"
+#include "BattleTank.h"
 #include "Tank.h"
 
 void ATankAIController::BeginPlay()

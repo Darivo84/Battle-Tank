@@ -1,10 +1,10 @@
 // Copyright Dayne Voller 2018.
 
+#include "Tank.h"
 #include "BattleTank.h"
 #include "TankBarrel.h"
 #include "Projectile.h"
 #include "TankAimingComponent.h"
-#include "Tank.h"
 
 
 // Sets default values

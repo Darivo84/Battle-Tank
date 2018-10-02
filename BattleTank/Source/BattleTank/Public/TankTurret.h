@@ -1,4 +1,4 @@
-// Copyright Dayne Voller 2018.
+// Copyright Dayne Voller 2018..
 
 #pragma once
 
